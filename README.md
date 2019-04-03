@@ -3,7 +3,7 @@ This Repo contains analysis of the performances of the different teams and playe
 
 This repository is divided into separate Jupyter Notebook's each containing different kind of Analysis. 
 ## Part 1: Teams Performances 
-**Jupyter Notebook : Cricekt-Analysis(Team Wise Performance)
+**Jupyter Notebook : Cricekt-Analysis(Team Wise Performance) <br />
 This Notebook contains team wise performances of different teams participating in 2019 Cricket World Cup. Below are the enlisted analysis carried out in this notebook:**
 - Total numeber of ODI Matches played by the teams.
 - Comparision between Wins and Losses of the respective teams.

@@ -12,5 +12,6 @@ This Notebook contains team wise performances of different teams participating i
 - Comparision between the teams based on Average Runs Conceded per over and per wicket.\
 - Highest and Lowest Runs scored by the teams in an Inning. 
 - Highest and Lowest Runs conceded by the teams in an Inning.
-
+- Performance of the teams in each edition of Cricket World Cup
+- Comparision of the teams performances in each edition of World Cup
 * Python Libraries Used : Numpy, Pandas, Matplotlib
